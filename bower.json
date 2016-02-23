@@ -1,0 +1,24 @@
+{
+  "name": "contatooh",
+  "description": "Lista de contatos com MEA stack",
+  "main": "index.js",
+  "authors": [
+    "André Cristiano"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.3",
+    "angular-route": "1.3",
+    "bootstrap": "3.3",
+    "angular-resource": "1.3"
+  }
+}
